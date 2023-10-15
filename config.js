@@ -7,16 +7,16 @@ import axios from 'axios'
 
 
 global.owner = [
-  ['917605902011', 'GURU', true],
-  ['6281255369012', 'Ash', true], 
+  ['923493436993', 'Arslan', true],
+  ['923493436993', 'Arslan king', true], 
   [''] 
 ] //Number of owners
 
 //global.pairingNumber = "" //put your bot number here
 
-global.mods = ['923415404892','32460248586'] 
-global.prems = ['923415404892', '32460248586', '923415404892']
-global.allowed = ['923415404892', '32460248586', '19152999993']
+global.mods = ['923493436993','32460248586'] 
+global.prems = ['923493436993', '32460248586', '923493436993']
+global.allowed = ['923493436993', '32460248586', '19152999993']
 global.keysZens = ['c2459db922', '37CC845916', '6fb0eff124']
 global.keysxxx = keysZens[Math.floor(keysZens.length * Math.random())]
 global.keysxteammm = ['29d4b59a4aa687ca', '5LTV57azwaid7dXfz5fzJu', 'cb15ed422c71a2fb', '5bd33b276d41d6b4', 'HIRO', 'kurrxd09', 'ebb6251cc00f9c63']
@@ -53,8 +53,8 @@ global.APIKeys = { // APIKey Here
 global.botname = 'Arslan king'
 global.premium = 'true'
 global.packname = 'Arslan king' 
-global.author = '@Asliguru' 
-global.menuvid = 'https://telegra.ph/file/085c4b1068f0f4f8db970.mp4'
+global.author = '@Arslan king' 
+global.menuvid = 'https://streamable.com/odknon'
 global.igfg = '▢ Follow on Instagram\nhttps://www.instagram.com/arslanakramak\n' 
 global.dygp = 'https://chat.whatsapp.com/KzlprNfsXG9KT5NAbh829x'
 global.fgsc = 'https://github.com/Guru322/GURU-BOT' 
