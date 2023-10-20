@@ -50,16 +50,16 @@ global.APIKeys = { // APIKey Here
 }
 
 // Sticker WM
-global.botname = 'Arslan king'
+global.botname = 'RAHMAN HACKER'
 global.premium = 'true'
-global.packname = 'Arslan king' 
-global.author = '@Arslan king' 
-global.menuvid = 'https://i.imgur.com/K1J2Bt6.mp4'
+global.packname = 'RAHMAN HACKER' 
+global.author = '@RAHMAN HACKER' 
+global.menuvid = 'https://telegra.ph/file/659a52fbe275b05cf5119.mp4'
 global.igfg = '▢ Follow on Instagram\nhttps://www.instagram.com/arslanakramak\n' 
 global.dygp = 'https://chat.whatsapp.com/KzlprNfsXG9KT5NAbh829x'
 global.fgsc = 'https://github.com/Guru322/GURU-BOT' 
 global.fgyt = 'https://www.youtube.com/@TechnicalHackersarslan'
-global.fgpyp = 'https://youtube.com/@Asliguru'
+global.fgpyp = 'https://www.youtube.com/@TechnicalHackersarslan'
 global.fglog = 'https://i.imgur.com/PfTsSuz.jpeg' 
 global.thumb = fs.readFileSync('./Assets/Gurulogo.jpg')
 
